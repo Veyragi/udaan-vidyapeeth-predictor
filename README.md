@@ -20,10 +20,9 @@ This project is a college admission predictor built using Python. It leverages t
 - **Key Libraries**: 
   - Pandas (for data manipulation)
   - NumPy (for numerical operations)
-  - Scikit-learn (for modeling, optional)
 - **AI/API**: Google Gemini API (for intelligent search and summarization)
 - **Data Source**: CSAB Round 1 & 2 Datasets (`.csv` / `.xlsx`)
-- **Development Environment**: Jupyter Notebook / VS Code
+- **Development Environment**: Jupyter Notebook / VS Code / Build Google Ai Studio
 
 ---
 
@@ -31,10 +30,9 @@ This project is a college admission predictor built using Python. It leverages t
 
 | Component               | Description                                                       |
 |-------------------------|-------------------------------------------------------------------|
-| `college_predictor.py`  | Main Python script containing the prediction logic and app interface |
-| `cleaned_csab_data.csv` | The processed and cleaned dataset used for the prediction model   |
+| `app.py`  | Main Python script containing the prediction logic and app interface |
+| `CSAB ROUND 1 & ROUND 2.csv` | The processed and cleaned dataset used for the prediction model   |
 | `requirements.txt`      | A list of all necessary Python libraries to run the project       |
-| `Project_Report.pdf`    | A detailed document explaining the project's methodology, findings, and process |
 | `README.md`             | You are here! The summary and guide for this project              |
 
 ---
