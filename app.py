@@ -91,5 +91,3 @@ if not filtered_df.empty:
 else:
     st.write("No colleges found for your rank and filters. Try adjusting your rank or filters!")
 
-# Run the app
-# Save this script as 'app.py' and run with: streamlit run app.py
