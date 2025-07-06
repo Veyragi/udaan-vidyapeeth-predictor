@@ -20,7 +20,7 @@ This project is a college admission predictor built using Python. It leverages t
 - **Key Libraries**: 
   - Pandas (for data manipulation)
   - Plotly Express (for data visualization)
-  - NumPy (for numerical operations)
+  - Streamlit (for building the interactive web application)
 - **AI/API**: Google Gemini API (for intelligent search and summarization)
 - **Data Source**: CSAB Round 1 & 2 Datasets (`.csv` / `.xlsx`)
 - **Development Environment**: Jupyter Notebook / VS Code / Build Google Ai Studio
